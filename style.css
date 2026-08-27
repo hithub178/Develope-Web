@@ -1,0 +1,115 @@
+#web1{
+background-color:rgb(239, 102, 225,0.7);
+}
+#button1:hover{
+    background-color:rgb(10, 160, 254);
+    cursor:pointer;
+    color:white;
+    transform:translateY(-5px);
+box-shadoW:0 10px 20px rgba(0,0,0,0.3);
+
+}
+#button1{
+border-radius:5px;
+height:25px;
+transition:0.5s;
+}
+#button1:active{
+    transform:translatey(3px)
+    scale(0.94);
+}
+#p1{
+    font-size:30px;
+}
+#button2{
+border-radius:5px;
+height:40px;
+width:120px;
+transition:0.5s;
+font-size:20px;
+}
+#button2:hover{
+    background-color:rgb(10, 160, 254);
+    cursor:pointer;
+    color:white;
+    transform:translateY(-5px);
+box-shadoW:0 10px 20px rgba(0,0,0,0.3);
+}
+#web2{
+    background-color:rgb(246, 123, 251);
+    color:black;
+
+}
+#f1{
+    text-align:center;
+    margin-top:370px;  
+}
+
+#b1{
+    background-image:url('Logo2.png');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-position:center;
+}
+#fb1:hover{
+background-color:rgb(10, 160, 254);
+    cursor:pointer;
+    color:white;
+    transform:translateY(-5px);
+box-shadoW:0 10px 20px rgba(0,0,0,0.3);
+border-color:rgb(46, 253, 46);
+}
+#fb1{
+border-radius:5px;
+height:25px;
+transition:0.5s;
+border:2px solid rgb(251, 10, 10);
+}
+#fb1:active{
+    transform:translatey(3px)
+    scale(0.94);
+}
+#s2{
+     background-image:url('sea.jpg');
+    background-repeat:no-repeat;
+    background-size:100% 100%;
+    background-position:center;
+}
+#sb1{
+    border-radius:5px;
+   height:50px;
+   transition:0.5s;
+   margin-top:4%;
+   width:200px;
+   font-size:25px;
+}
+#sb1:hover{
+ background-color:rgb(7, 156, 225);
+    cursor:pointer;
+    color:white;
+    transform:translateY(-5px);
+box-shadoW:0 10px 20px rgba(0,0,0,0.3);   
+}
+#sb1:active{
+    transform:translatey(3px)
+    scale(0.94s);
+}
+#webb1{
+ border-radius:5px;
+   height:40px;
+   transition:0.5s;
+   margin-top:2%;
+   width:200px;
+   font-size:20px;
+}
+#webb1:hover{
+ background-color:rgb(15, 65, 244);
+    cursor:pointer;
+    color:white;
+    transform:translateY(-5px);
+box-shadoW:0 10px 20px rgba(0,0,0,0.3);   
+}
+#webb1:active{
+    transform:translatey(3px)
+    scale(0.94s);
+}
